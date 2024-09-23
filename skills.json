@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Ubuntu",
+        "icon": "https://img.icons8.com/?size=100&id=63208&format=png&color=000000"
+    },
+    {
+        "name": "RedHat",
+        "icon": "https://img.icons8.com/?size=100&id=17847&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"
+    },    
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/?size=100&id=39292&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=XASA7fMaH2Oc&format=png&color=000000"
+    }
+      
+]
