@@ -137,7 +137,7 @@ function showProjects(projects) {
     const srtop = ScrollReveal({
         origin: 'top',
         distance: '80px',
-        duration: 1000,
+        duration: 800,
         reset: true
     });
 
@@ -206,8 +206,8 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
     origin: 'top',
-    distance: '80px',
-    duration: 1000,
+    distance: '50px',
+    duration: 800,
     reset: true
 });
 
